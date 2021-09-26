@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.exe
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.deps.json
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.json
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.dev.json
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\md048\source\repos\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.pdb
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfo.cs
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.pdb
+C:\Users\md048\source\repos\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.genruntimeconfig.cache
