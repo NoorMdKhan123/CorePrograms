@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.exe
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.deps.json
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.runtimeconfig.json
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.runtimeconfig.dev.json
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.dll
+C:\Users\md048\source\repos\TableProgram\bin\Debug\netcoreapp3.1\TableProgram.pdb
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.AssemblyInfo.cs
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.dll
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.pdb
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.genruntimeconfig.cache
+C:\Users\md048\source\repos\TableProgram\obj\Debug\netcoreapp3.1\TableProgram.csproj.AssemblyReference.cache
