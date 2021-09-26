@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.exe
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.deps.json
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.runtimeconfig.json
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.runtimeconfig.dev.json
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.dll
+C:\Users\md048\source\repos\ConsonantVowel\bin\Debug\netcoreapp3.1\ConsonantVowel.pdb
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.AssemblyInfo.cs
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.dll
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.pdb
+C:\Users\md048\source\repos\ConsonantVowel\obj\Debug\netcoreapp3.1\ConsonantVowel.genruntimeconfig.cache
