@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.exe
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.deps.json
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.runtimeconfig.json
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.runtimeconfig.dev.json
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.dll
+C:\Users\md048\source\repos\HarmonicSeries\bin\Debug\netcoreapp3.1\HarmonicSeries.pdb
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.AssemblyInfo.cs
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.dll
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.pdb
+C:\Users\md048\source\repos\HarmonicSeries\obj\Debug\netcoreapp3.1\HarmonicSeries.genruntimeconfig.cache
