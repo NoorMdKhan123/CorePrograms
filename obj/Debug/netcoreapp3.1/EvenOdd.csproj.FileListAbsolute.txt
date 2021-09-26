@@ -1,0 +1,13 @@
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\md048\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\md048\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache
